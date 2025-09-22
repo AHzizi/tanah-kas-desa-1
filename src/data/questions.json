@@ -1,302 +1,602 @@
 [
   {
     "id": 1,
-    "question": "Berapa nilai 1 ru dalam satuan meter persegi (m²)?",
-    "options": ["4 m²", "8 m²", "16 m²", "32 m²", "64 m²"],
-    "correctAnswer": 2
+    "question": "Berapa luas 5 ru dalam satuan meter persegi (m²)?",
+    "options": [
+      "50 m²",
+      "70 m²",
+      "100 m²",
+      "140 m²",
+      "500 m²"
+    ],
+    "correctAnswer": 1
   },
   {
     "id": 2,
-    "question": "Jika 1 ru = 16 m², berapakah nilai 2 ru dalam m²?",
-    "options": ["16 m²", "24 m²", "32 m²", "48 m²", "64 m²"],
-    "correctAnswer": 2
+    "question": "Jika 1 are sama dengan 100 m², maka 3 are sama dengan berapa ru?",
+    "options": [
+      "14 ru",
+      "21,43 ru",
+      "28,57 ru",
+      "300 ru",
+      "3000 ru"
+    ],
+    "correctAnswer": 1
   },
   {
     "id": 3,
-    "question": "Berapa meter persegi (m²) yang setara dengan 4 ru?",
-    "options": ["16 m²", "32 m²", "48 m²", "64 m²", "80 m²"],
-    "correctAnswer": 3
+    "question": "Sebidang tanah memiliki luas 280 m². Berapa luas tanah tersebut dalam satuan ru?",
+    "options": [
+      "10 ru",
+      "14 ru",
+      "20 ru",
+      "28 ru",
+      "200 ru"
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 4,
-    "question": "Jika 3 ru adalah 48 m², maka 1 ru adalah...",
-    "options": ["12 m²", "16 m²", "18 m²", "20 m²", "24 m²"],
+    "question": "Konversi 7.000 m² ke dalam satuan bau.",
+    "options": [
+      "0,7 bau",
+      "1 bau",
+      "7 bau",
+      "14 bau",
+      "70 bau"
+    ],
     "correctAnswer": 1
   },
   {
     "id": 5,
-    "question": "64 m² setara dengan berapa ru?",
-    "options": ["2 ru", "3 ru", "4 ru", "5 ru", "6 ru"],
+    "question": "Satu hektar setara dengan berapa bau?",
+    "options": [
+      "0,7 bau",
+      "1 bau",
+      "1,43 bau",
+      "7 bau",
+      "10 bau"
+    ],
     "correctAnswer": 2
   },
   {
     "id": 6,
-    "question": "Berapakah nilai 1 bahu dalam satuan iring?",
-    "options": ["1 iring", "2 iring", "3 iring", "4 iring", "6 iring"],
-    "correctAnswer": 3
+    "question": "Luas tanah 3,5 hektar setara dengan berapa m²?",
+    "options": [
+      "3.500 m²",
+      "7.000 m²",
+      "35.000 m²",
+      "70.000 m²",
+      "350.000 m²"
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 7,
-    "question": "8 iring setara dengan berapa bahu?",
-    "options": ["1 bahu", "2 bahu", "3 bahu", "4 bahu", "5 bahu"],
-    "correctAnswer": 1
+    "question": "Sebuah kebun jagung memiliki luas 2 bau. Berapa luasnya dalam satuan are?",
+    "options": [
+      "70 are",
+      "100 are",
+      "140 are",
+      "200 are",
+      "700 are"
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 8,
-    "question": "Jika 1 lupit + 1 lupit = 1 bahu, maka 1 lupit sama dengan berapa bahu?",
-    "options": ["0,5 bahu", "1 bahu", "2 bahu", "3 bahu", "4 bahu"],
-    "correctAnswer": 0
+    "question": "Sebuah lapangan sepak bola seluas 1 hektar. Berapa luasnya dalam satuan ru?",
+    "options": [
+      "500 ru",
+      "714,28 ru",
+      "1.000 ru",
+      "7.000 ru",
+      "10.000 ru"
+    ],
+    "correctAnswer": 1
   },
   {
     "id": 9,
-    "question": "Berapakah nilai 1 lupit dalam satuan iring?",
-    "options": ["1 iring", "2 iring", "3 iring", "4 iring", "6 iring"],
+    "question": "Berapa nilai 10.000 cm² dalam satuan m²?",
+    "options": [
+      "0,1 m²",
+      "1 m²",
+      "10 m²",
+      "100 m²",
+      "1.000 m²"
+    ],
     "correctAnswer": 1
   },
   {
     "id": 10,
-    "question": "3 lupit setara dengan berapa iring?",
-    "options": ["2 iring", "4 iring", "6 iring", "8 iring", "12 iring"],
-    "correctAnswer": 2
+    "question": "Satu iring sama dengan berapa m²?",
+    "options": [
+      "1.000 m²",
+      "1.166,67 m²",
+      "1.400 m²",
+      "1.750 m²",
+      "7.000 m²"
+    ],
+    "correctAnswer": 3
   },
   {
     "id": 11,
-    "question": "Berapakah nilai 1 bahu dalam lupit?",
-    "options": ["1 lupit", "2 lupit", "3 lupit", "4 lupit", "5 lupit"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 12,
-    "question": "1 iring + 1 iring setara dengan berapa lupit?",
-    "options": ["1 lupit", "2 lupit", "3 lupit", "4 lupit", "5 lupit"],
+    "question": "Pak Budi memiliki tanah seluas 2 bau dan 200 ru. Total luas tanah Pak Budi dalam satuan m² adalah...",
+    "options": [
+      "9.800 m²",
+      "10.000 m²",
+      "10.800 m²",
+      "14.000 m²",
+      "28.000 m²"
+    ],
     "correctAnswer": 0
   },
   {
-    "id": 13,
-    "question": "Berapa iring yang setara dengan 1 hektar?",
-    "options": ["2 iring", "4 iring", "6 iring", "8 iring", "10 iring"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 14,
-    "question": "12 iring sama dengan berapa hektar?",
-    "options": ["1 hektar", "2 hektar", "3 hektar", "4 hektar", "6 hektar"],
+    "id": 12,
+    "question": "Berapa iring yang setara dengan 1 bau?",
+    "options": [
+      "2 iring",
+      "4 iring",
+      "6 iring",
+      "8 iring",
+      "12 iring"
+    ],
     "correctAnswer": 1
   },
   {
+    "id": 13,
+    "question": "Jika 1 iring setara dengan 1/4 bahu, maka 2 iring sama dengan...",
+    "options": [
+      "1/2 bahu",
+      "1 bahu",
+      "2 bahu",
+      "4 bahu",
+      "6 bahu"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "question": "Berapa total panjang 2 m dan 50 cm dalam satuan milimeter (mm)?",
+    "options": [
+      "250 mm",
+      "2.050 mm",
+      "2.500 mm",
+      "25.000 mm",
+      "250.000 mm"
+    ],
+    "correctAnswer": 2
+  },
+  {
     "id": 15,
-    "question": "Berapakah nilai 2 hektar dalam iring?",
-    "options": ["6 iring", "8 iring", "10 iring", "12 iring", "14 iring"],
+    "question": "Konversi 3,5 hektar ke dalam satuan iring.",
+    "options": [
+      "6 iring",
+      "12 iring",
+      "18 iring",
+      "21 iring",
+      "30 iring"
+    ],
     "correctAnswer": 3
   },
   {
     "id": 16,
-    "question": "Jika 1 lupit = 3333,33 m², berapakah nilai 1 iring dalam m²?",
-    "options": ["1666,67 m²", "2222,22 m²", "3333,33 m²", "4444,44 m²", "6666,67 m²"],
-    "correctAnswer": 0
+    "question": "Satu lupit sama dengan berapa iring?",
+    "options": [
+      "1 iring",
+      "2 iring",
+      "3 iring",
+      "4 iring",
+      "6 iring"
+    ],
+    "correctAnswer": 1
   },
   {
     "id": 17,
-    "question": "Berapakah nilai 1 bahu dalam m²?",
-    "options": ["3333,33 m²", "4444,44 m²", "6666,67 m²", "8888,88 m²", "13333,34 m²"],
-    "correctAnswer": 2
+    "question": "Jika 1 bahu = 4 iring dan 1 iring = 1.750 m², maka 1 bahu = ... m².",
+    "options": [
+      "1.750 m²",
+      "3.500 m²",
+      "5.250 m²",
+      "7.000 m²",
+      "14.000 m²"
+    ],
+    "correctAnswer": 3
   },
   {
     "id": 18,
-    "question": "Berapakah nilai 1 hektar dalam m²?",
-    "options": ["10.000 m²", "13.333,34 m²", "20.000 m²", "26.666,68 m²", "30.000 m²"],
-    "correctAnswer": 0
+    "question": "Berapa meter yang setara dengan 500 cm?",
+    "options": [
+      "0,5 m",
+      "5 m",
+      "50 m",
+      "500 m",
+      "5.000 m"
+    ],
+    "correctAnswer": 1
   },
   {
     "id": 19,
-    "question": "Berapakah nilai 2 bahu dalam m²?",
-    "options": ["6666,67 m²", "13.333,34 m²", "20.000 m²", "26.666,68 m²", "30.000 m²"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 20,
-    "question": "13.333,34 m² setara dengan berapa bahu?",
-    "options": ["1 bahu", "2 bahu", "3 bahu", "4 bahu", "5 bahu"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 21,
-    "question": "Jika 1 lupit = 3333,33 m², maka 1 bahu sama dengan...",
-    "options": ["1 lupit", "2 lupit", "3 lupit", "4 lupit", "5 lupit"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 22,
-    "question": "1 hektar = 6 iring. Berapakah nilai 1 hektar dalam lupit?",
-    "options": ["2 lupit", "3 lupit", "4 lupit", "5 lupit", "6 lupit"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 23,
-    "question": "1 bahu setara dengan berapa iring?",
-    "options": ["2 iring", "3 iring", "4 iring", "6 iring", "8 iring"],
+    "question": "Luas 1,5 hektar setara dengan berapa are?",
+    "options": [
+      "15 are",
+      "100 are",
+      "150 are",
+      "1.500 are",
+      "15.000 are"
+    ],
     "correctAnswer": 2
   },
   {
+    "id": 20,
+    "question": "Satu hektar setara dengan berapa iring?",
+    "options": [
+      "2 iring",
+      "4 iring",
+      "6 iring",
+      "8 iring",
+      "10 iring"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "Jika 1 bau = 7.000 m², berapa luas 0,5 bau dalam are?",
+    "options": [
+      "15 are",
+      "20 are",
+      "25 are",
+      "30 are",
+      "35 are"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "id": 22,
+    "question": "Berapa ru yang setara dengan 1/2 bau?",
+    "options": [
+      "150 ru",
+      "200 ru",
+      "250 ru",
+      "500 ru",
+      "1.000 ru"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "Jika 1 hektar = 6 iring, berapa are yang setara dengan 3 iring?",
+    "options": [
+      "50 are",
+      "100 are",
+      "150 are",
+      "200 are",
+      "500 are"
+    ],
+    "correctAnswer": 0
+  },
+  {
     "id": 24,
-    "question": "Berapakah nilai 1 hektar dalam bahu?",
-    "options": ["1 bahu", "1,5 bahu", "2 bahu", "2,5 bahu", "3 bahu"],
+    "question": "Berapa m² yang setara dengan 500.000 cm²?",
+    "options": [
+      "5 m²",
+      "50 m²",
+      "500 m²",
+      "5.000 m²",
+      "50.000 m²"
+    ],
     "correctAnswer": 1
   },
   {
     "id": 25,
-    "question": "Berapakah nilai 2 hektar dalam bahu?",
-    "options": ["2 bahu", "3 bahu", "4 bahu", "5 bahu", "6 bahu"],
-    "correctAnswer": 1
+    "question": "Total panjang 15 m dan 1.500 mm adalah...",
+    "options": [
+      "16,5 m",
+      "15,15 m",
+      "15,015 m",
+      "165 m",
+      "1.515 m"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 26,
-    "question": "Berapa m² yang setara dengan 1 lupit?",
-    "options": ["1666,67 m²", "2222,22 m²", "3333,33 m²", "4444,44 m²", "6666,67 m²"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 27,
-    "question": "10.000 m² sama dengan berapa hektar?",
-    "options": ["0,5 hektar", "1 hektar", "1,5 hektar", "2 hektar", "3 hektar"],
+    "question": "Berapa hektar yang setara dengan 3,5 bahu?",
+    "options": [
+      "1 hektar",
+      "2,45 hektar",
+      "3,5 hektar",
+      "5 hektar",
+      "7 hektar"
+    ],
     "correctAnswer": 1
   },
   {
+    "id": 27,
+    "question": "Jika 1 ru = 14 m², berapa are yang setara dengan 210 ru?",
+    "options": [
+      "1,4 are",
+      "2,1 are",
+      "2,94 are",
+      "21 are",
+      "29,4 are"
+    ],
+    "correctAnswer": 4
+  },
+  {
     "id": 28,
-    "question": "Berapa dam² yang setara dengan 1 hektar?",
-    "options": ["1 dam²", "10 dam²", "100 dam²", "1000 dam²", "10000 dam²"],
+    "question": "Luas sebidang sawah 0,5 bau. Luas sawah tersebut dalam ru adalah...",
+    "options": [
+      "50 ru",
+      "100 ru",
+      "250 ru",
+      "500 ru",
+      "1.000 ru"
+    ],
     "correctAnswer": 2
   },
   {
     "id": 29,
-    "question": "1 km² sama dengan berapa m²?",
-    "options": ["100 m²", "10.000 m²", "100.000 m²", "1.000.000 m²", "10.000.000 m²"],
-    "correctAnswer": 3
+    "question": "Berapa meter yang setara dengan 300 mm?",
+    "options": [
+      "0,3 m",
+      "3 m",
+      "30 m",
+      "300 m",
+      "3.000 m"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 30,
-    "question": "Jika 1 hm² = 1 hektar, berapa m² dalam 1 hm²?",
-    "options": ["100 m²", "1.000 m²", "10.000 m²", "100.000 m²", "1.000.000 m²"],
-    "correctAnswer": 2
+    "question": "Jika 1 lupit = 2 iring dan 1 iring = 1.750 m², maka 1 lupit = ... m².",
+    "options": [
+      "1.750 m²",
+      "3.500 m²",
+      "5.250 m²",
+      "7.000 m²",
+      "14.000 m²"
+    ],
+    "correctAnswer": 1
   },
   {
     "id": 31,
-    "question": "1 m² setara dengan berapa dm²?",
-    "options": ["1 dm²", "10 dm²", "100 dm²", "1000 dm²", "10000 dm²"],
+    "question": "Berapa m² yang setara dengan 3 are?",
+    "options": [
+      "30 m²",
+      "100 m²",
+      "300 m²",
+      "3.000 m²",
+      "30.000 m²"
+    ],
     "correctAnswer": 2
   },
   {
     "id": 32,
-    "question": "Berapakah nilai 100 cm² dalam dm²?",
-    "options": ["0,01 dm²", "0,1 dm²", "1 dm²", "10 dm²", "100 dm²"],
-    "correctAnswer": 2
+    "question": "Berapa ru yang setara dengan 140 m²?",
+    "options": [
+      "10 ru",
+      "14 ru",
+      "20 ru",
+      "100 ru",
+      "140 ru"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 33,
-    "question": "1 m² setara dengan berapa cm²?",
-    "options": ["10 cm²", "100 cm²", "1.000 cm²", "10.000 cm²", "100.000 cm²"],
+    "question": "Luas tanah 2 hektar sama dengan berapa iring?",
+    "options": [
+      "6 iring",
+      "8 iring",
+      "10 iring",
+      "12 iring",
+      "14 iring"
+    ],
     "correctAnswer": 3
   },
   {
     "id": 34,
-    "question": "Berapakah nilai 1 mm² dalam cm²?",
-    "options": ["0,001 cm²", "0,01 cm²", "0,1 cm²", "1 cm²", "10 cm²"],
-    "correctAnswer": 1
+    "question": "Berapa m² yang setara dengan 4 iring?",
+    "options": [
+      "1.750 m²",
+      "3.500 m²",
+      "7.000 m²",
+      "10.000 m²",
+      "14.000 m²"
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 35,
-    "question": "Berapakah nilai 1 km² dalam hm²?",
-    "options": ["0,01 hm²", "0,1 hm²", "1 hm²", "10 hm²", "100 hm²"],
-    "correctAnswer": 4
+    "question": "Sebuah lahan seluas 150 are. Berapa hektar luas lahan tersebut?",
+    "options": [
+      "0,15 hektar",
+      "1,5 hektar",
+      "15 hektar",
+      "150 hektar",
+      "1.500 hektar"
+    ],
+    "correctAnswer": 1
   },
   {
     "id": 36,
-    "question": "Berapakah nilai 2 dam² dalam m²?",
-    "options": ["2 m²", "20 m²", "200 m²", "2.000 m²", "20.000 m²"],
+    "question": "Berapa milimeter yang setara dengan 5 meter?",
+    "options": [
+      "50 mm",
+      "500 mm",
+      "5.000 mm",
+      "50.000 mm",
+      "500.000 mm"
+    ],
     "correctAnswer": 2
   },
   {
     "id": 37,
-    "question": "Berapakah nilai 500 m² dalam dam²?",
-    "options": ["0,5 dam²", "5 dam²", "50 dam²", "500 dam²", "5.000 dam²"],
+    "question": "Berapa ru yang setara dengan 1 hektar?",
+    "options": [
+      "500 ru",
+      "714,28 ru",
+      "1.000 ru",
+      "10.000 ru",
+      "14.000 ru"
+    ],
     "correctAnswer": 1
   },
   {
     "id": 38,
-    "question": "1 hektar sama dengan berapa m²?",
-    "options": ["1.000 m²", "10.000 m²", "100.000 m²", "1.000.000 m²", "10.000.000 m²"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 39,
-    "question": "Berapakah nilai 1 bahu dalam iring?",
-    "options": ["1 iring", "2 iring", "3 iring", "4 iring", "5 iring"],
+    "question": "Konversi 21.000 m² ke dalam satuan bau.",
+    "options": [
+      "0,3 bau",
+      "1 bau",
+      "2 bau",
+      "3 bau",
+      "14 bau"
+    ],
     "correctAnswer": 3
   },
   {
+    "id": 39,
+    "question": "Jika 1 bau = 7.000 m², maka 3/4 bau sama dengan berapa m²?",
+    "options": [
+      "1.750 m²",
+      "3.500 m²",
+      "5.250 m²",
+      "7.000 m²",
+      "14.000 m²"
+    ],
+    "correctAnswer": 2
+  },
+  {
     "id": 40,
-    "question": "Berapakah nilai 1 lupit dalam bahu?",
-    "options": ["0,25 bahu", "0,5 bahu", "1 bahu", "2 bahu", "4 bahu"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 41,
-    "question": "Jika 1 iring = 1666,67 m², berapakah nilai 1 bahu dalam m²?",
-    "options": ["3333,34 m²", "6666,68 m²", "8333,35 m²", "10.000 m²", "13.333,34 m²"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 42,
-    "question": "Berapakah nilai 3 lupit dalam iring?",
-    "options": ["2 iring", "4 iring", "6 iring", "8 iring", "10 iring"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 43,
-    "question": "Berapakah nilai 1 hektar dalam lupit?",
-    "options": ["1 lupit", "2 lupit", "3 lupit", "4 lupit", "5 lupit"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 44,
-    "question": "Jika 1 hektar = 10.000 m², berapakah nilai 1 iring dalam m²?",
-    "options": ["1666,67 m²", "2222,22 m²", "3333,33 m²", "4444,44 m²", "6666,67 m²"],
+    "question": "Berapa m² yang setara dengan 2.500 cm²?",
+    "options": [
+      "0,25 m²",
+      "2,5 m²",
+      "25 m²",
+      "250 m²",
+      "2.500 m²"
+    ],
     "correctAnswer": 0
   },
   {
-    "id": 45,
-    "question": "Berapa m² yang setara dengan 1 bahu?",
-    "options": ["3333,33 m²", "6666,67 m²", "10.000 m²", "13.333,34 m²", "20.000 m²"],
+    "id": 41,
+    "question": "Berapa bau yang setara dengan 14.000 m²?",
+    "options": [
+      "0,5 bau",
+      "1 bau",
+      "2 bau",
+      "7 bau",
+      "14 bau"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 42,
+    "question": "Jika 1 iring = 1/4 bahu, berapa luas 1 iring dalam ru?",
+    "options": [
+      "100 ru",
+      "125 ru",
+      "250 ru",
+      "500 ru",
+      "750 ru"
+    ],
     "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "Berapa ru yang setara dengan 2 are?",
+    "options": [
+      "14 ru",
+      "28,57 ru",
+      "50 ru",
+      "100 ru",
+      "200 ru"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "Berapa sentimeter yang setara dengan 2,5 meter?",
+    "options": [
+      "25 cm",
+      "250 cm",
+      "2.500 cm",
+      "25.000 cm",
+      "250.000 cm"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "question": "Jika 1 bau = 7.000 m², berapa luas 0,2 bau dalam m²?",
+    "options": [
+      "1.400 m²",
+      "3.500 m²",
+      "7.000 m²",
+      "10.000 m²",
+      "14.000 m²"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 46,
-    "question": "Berapakah nilai 1 iring dalam bahu?",
-    "options": ["0,1 bahu", "0,25 bahu", "0,5 bahu", "1 bahu", "2 bahu"],
-    "correctAnswer": 1
+    "question": "Konversi 3,5 iring ke dalam satuan m².",
+    "options": [
+      "1.750 m²",
+      "3.500 m²",
+      "5.250 m²",
+      "6.125 m²",
+      "7.000 m²"
+    ],
+    "correctAnswer": 3
   },
   {
     "id": 47,
-    "question": "Berapa lupit yang setara dengan 1,5 bahu?",
-    "options": ["1 lupit", "2 lupit", "3 lupit", "4 lupit", "5 lupit"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 48,
-    "question": "Jika 1 hektar = 6 iring, dan 1 bahu = 4 iring. Berapa hektar yang setara dengan 3 bahu?",
-    "options": ["1 hektar", "1,5 hektar", "2 hektar", "2,5 hektar", "3 hektar"],
+    "question": "Berapa hektar yang setara dengan 28.000 m²?",
+    "options": [
+      "0,28 hektar",
+      "2,8 hektar",
+      "14 hektar",
+      "28 hektar",
+      "280 hektar"
+    ],
     "correctAnswer": 1
   },
   {
+    "id": 48,
+    "question": "Berapa milimeter yang setara dengan 70 cm?",
+    "options": [
+      "700 mm",
+      "7.000 mm",
+      "70.000 mm",
+      "700.000 mm",
+      "7.000.000 mm"
+    ],
+    "correctAnswer": 0
+  },
+  {
     "id": 49,
-    "question": "Berapa m² yang setara dengan 10 ru?",
-    "options": ["16 m²", "100 m²", "160 m²", "320 m²", "1600 m²"],
-    "correctAnswer": 2
+    "question": "Jika 1 hektar = 6 iring, berapa m² yang setara dengan 2 iring?",
+    "options": [
+      "1.750 m²",
+      "3.333,33 m²",
+      "3.500 m²",
+      "7.000 m²",
+      "10.000 m²"
+    ],
+    "correctAnswer": 1
   },
   {
     "id": 50,
-    "question": "Berapakah nilai 1000 dm² dalam m²?",
-    "options": ["0,1 m²", "1 m²", "10 m²", "100 m²", "1000 m²"],
-    "correctAnswer": 2
+    "question": "Berapa m² yang setara dengan 4 bau?",
+    "options": [
+      "7.000 m²",
+      "14.000 m²",
+      "21.000 m²",
+      "28.000 m²",
+      "35.000 m²"
+    ],
+    "correctAnswer": 3
   }
 ]
