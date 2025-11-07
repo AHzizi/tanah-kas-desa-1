@@ -17,7 +17,7 @@ export const Timer: React.FC = () => {
 
     const interval = setInterval(() => {
       const elapsed = Date.now() - quizState.startTime;
-      const remaining = Math.max(0, 30 * 60 * 1000 - elapsed);
+      const remaining = Math.max(0, 60 * 60 * 1000 - elapsed);
       
       updateTimer(remaining);
       
@@ -29,7 +29,7 @@ export const Timer: React.FC = () => {
     return () => clearInterval(interval);
   }, [quizState.isCompleted, quizState.startTime, updateTimer, submitQuiz]);
 
-  const timePercentage = (quizState.timeRemaining / (30 * 60 * 1000)) * 100;
+  const timePercentage = (quizState.timeRemaining / (60 * 60 * 1000)) * 100;
   const isLowTime = timePercentage <= 25;
 
   return (

@@ -22,7 +22,7 @@ interface QuizContextType {
 
 const QuizContext = createContext<QuizContextType | undefined>(undefined);
 
-const QUIZ_DURATION = 30 * 60 * 1000; // 30 minutes in milliseconds
+const QUIZ_DURATION = 60 * 60 * 1000; // 60 minutes in milliseconds
 const STORAGE_KEY = 'quiz-state';
 
 export const QuizProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
