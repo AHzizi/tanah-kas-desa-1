@@ -183,16 +183,16 @@
   },
   {
     "id": 15,
-    "question": "Konversi '1 meter persegi (m²)' ke satuan centimeter persegi ($cm^2$) adalah...",
+    "question": "Konversi '1 meter persegi (m²)' ke satuan centimeter persegi (cm²) adalah...",
     "options": [
-      "100 $cm^2$",
-      "1.000 $cm^2$",
-      "10.000 $cm^2$",
-      "100.000 $cm^2$",
-      "1.000.000 $cm^2$"
+      "100 cm²",
+      "1.000 cm²",
+      "10.000 cm²",
+      "100.000 cm²",
+      "1.000.000 cm²"
     ],
     "correctAnswer": 2,
-    "explanation": "Dari materi: '1 m² = 10.000 $cm^2$'."
+    "explanation": "Dari materi: '1 m² = 10.000 cm²'."
   },
   {
     "id": 16,
@@ -417,16 +417,16 @@
   },
   {
     "id": 33,
-    "question": "Berapakah $cm^2$ yang setara dengan 3 m²?",
+    "question": "Berapakah cm² yang setara dengan 3 m²?",
     "options": [
-      "300 $cm^2$",
-      "3.000 $cm^2$",
-      "30.000 $cm^2$",
-      "300.000 $cm^2$",
-      "3.000.000 $cm^2$"
+      "300 cm²",
+      "3.000 cm²",
+      "30.000 cm²",
+      "300.000 cm²",
+      "3.000.000 cm²"
     ],
     "correctAnswer": 2,
-    "explanation": "1 m² = 10.000 $cm^2$. Jadi, 3 m² $\\times$ 10.000 $cm^2$/m² = 30.000 $cm^2$."
+    "explanation": "1 m² = 10.000 cm². Jadi, 3 m² $\\times$ 10.000 cm²/m² = 30.000 cm²."
   },
   {
     "id": 34,
@@ -703,20 +703,20 @@
   },
   {
     "id": 55,
-    "question": "Berapakah $cm^2$ yang setara dengan 1/2 m²?",
+    "question": "Berapakah cm² yang setara dengan 1/2 m²?",
     "options": [
-      "50 $cm^2$",
-      "500 $cm^2$",
-      "5.000 $cm^2$",
-      "10.000 $cm^2$",
-      "50.000 $cm^2$"
+      "50 cm²",
+      "500 cm²",
+      "5.000 cm²",
+      "10.000 cm²",
+      "50.000 cm²"
     ],
     "correctAnswer": 2,
-    "explanation": "1 m² = 10.000 $cm^2$. Jadi, 1/2 m² = 10.000 $cm^2$ / 2 = 5.000 $cm^2$."
+    "explanation": "1 m² = 10.000 cm². Jadi, 1/2 m² = 10.000 cm² / 2 = 5.000 cm²."
   },
   {
     "id": 56,
-    "question": "Jika 1 m² = 10.000 $cm^2$, maka 1 $cm^2$ setara dengan berapa bagian dari m²?",
+    "question": "Jika 1 m² = 10.000 cm², maka 1 cm² setara dengan berapa bagian dari m²?",
     "options": [
       "1/100 m²",
       "1/1.000 m²",
@@ -725,7 +725,7 @@
       "1/1.000.000 m²"
     ],
     "correctAnswer": 2,
-    "explanation": "1 $cm^2$ = 1/10.000 m²."
+    "explanation": "1 cm² = 1/10.000 m²."
   },
   {
     "id": 57,
@@ -911,16 +911,16 @@
   },
   {
     "id": 71,
-    "question": "Berapakah total $cm^2$ dari '1 m² + 10.000 $cm^2$?",
+    "question": "Berapakah total cm² dari '1 m² + 10.000 cm²?",
     "options": [
-      "10.000 $cm^2$",
-      "11.000 $cm^2$",
-      "20.000 $cm^2$",
-      "110.000 $cm^2$",
-      "1.000.000 $cm^2$"
+      "10.000 cm²",
+      "11.000 cm²",
+      "20.000 cm²",
+      "110.000 cm²",
+      "1.000.000 cm²"
     ],
     "correctAnswer": 2,
-    "explanation": "1 m² = 10.000 $cm^2$. Total = 10.000 $cm^2$ + 10.000 $cm^2$ = 20.000 $cm^2$."
+    "explanation": "1 m² = 10.000 cm². Total = 10.000 cm² + 10.000 cm² = 20.000 cm²."
   },
   {
     "id": 72,
